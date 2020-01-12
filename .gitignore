@@ -1,2 +1,3 @@
-/res/dataset
-/res/model_param
+/res/dataset/*
+/res/model_param/*
+/res/test/*

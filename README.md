@@ -1,1 +1,1 @@
-# CNN
+# Pneumonia Prediction with Convolutional Neural Network
