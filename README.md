@@ -1,3 +1,3 @@
 # Pneumonia Prediction with Convolutional Neural Network
 
-https://drive.google.com/file/d/1bqW70UXWr8tSNnYrtybYHf5qu-JTvgbc/view?usp=sharing
+https://docs.google.com/document/d/1EdUF8DmEf7gXiOM8x4KTV8xFfjqChjEJLZkwiO-89so/edit?usp=sharing
